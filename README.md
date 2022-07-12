@@ -5,7 +5,12 @@
 Projeto que consistiu em elaborar perguntas referentes à uma base de dados sobre partidas competitivas de League of Legends e realizar as consultas em .sql afim de obter as respostas dessas perguntas de maneira que visasse utilizar o conhecimento adquirido pelos integrantes do squad ao longo do modulo 3 no curso WebDev FullStack da Resilia Educação.
 
 ## :computer: APRESENTAÇÃO
-Decidimos utilizar o [Infogram](https://infogram.com/league-of-legends-data-1hdw2jpjv3qgj2l?live) e extraindo os .csv das queries realizadas pudemos montar a apresentação e análise do gráfico
+
+Decidimos utilizar o [Infogram](https://infogram.com/league-of-legends-data-1hdw2jpjv3qgj2l?live) e extraindo os .csv das queries realizadas conseguimos montar a apresentação e análise do gráfico
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/85354283/178543848-6ebb188b-0b86-4108-8ba3-d6af10438b0d.png">
+</p>
 
 ## :wrench: FERRAMENTAS E TECNOLOGIAS UTILIZADAS: 
 
